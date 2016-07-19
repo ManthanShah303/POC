@@ -12,7 +12,7 @@ default: &default
 
 development:
   adapter: postgresql
-  database: ddc40kttk4qui3
+  database: ddc40kttk4qui3123
   pool: 5
   host: postgres://pjkvgjzfposopu:d5sfqBZ17kWHcnEbZLgNPfz_dh@ec2-54-225-195-254.compute-1.amazonaws.com:5432/ddc40kttk4qui3
   username: pjkvgjzfposopu
